@@ -28,5 +28,5 @@ Here is your chance to Automatically send Personalised messages :)
 2) To add a contact to your list
     1. Enter the Personalised name with which you want to send the message
     2. To ignore the contact, press enter
-    3. To use the given name, the one after -, press f and enter
+    3. To use the given name, the one after -, press f and enter.
     4. to break through the list, Press f and enter.
